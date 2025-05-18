@@ -8,7 +8,7 @@
 - 💬 Ask me about Tech,problem solving
 - 📫 How to reach me:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-  😃 Pronouns: Techie
+-  😃 Pronouns: Techie
 
 ### 🛠 I code in:
 
